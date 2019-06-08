@@ -1,0 +1,25 @@
+body{
+    background-color: beige;
+}
+
+.container{
+    display: block;
+    margin: 50vh auto;
+    max-width: 20%;
+}
+.Talk{
+    background-color: darkslategrey;
+    color: aliceblue;
+   
+    
+    padding-right: 5vh; 
+    padding-left: 5vh; 
+    padding-top: 2vh; 
+    padding-bottom: 2vh; 
+}
+.Text{
+    position: absolute;
+    padding: 1vh 5vh 1vh 5vh;
+    margin: 50px 0px 0px 0px; 
+    /*background-color: skyblue;*/
+}
